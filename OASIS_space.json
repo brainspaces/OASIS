@@ -9,8 +9,8 @@
     "MapHead": "${BRAINSPACE}/OASIS/OASIS-1x1x1Head.nii.gz",
     "Mask": "${BRAINSPACE}/OASIS/OASIS-1x1x1Mask.nii.gz",
     "Priors": "${BRAINSPACE}/OASIS/OASIS_priors/OASIS-priors-%03d.nii.gz",
-    "Sample": "${BRAINSPACE}/OASIS/OASIS-2x2x2Sample.csv",
-    "Citation": "${BRAINSPACE}/OASIS/OASISReference.bib"
+    "Sample": "${BRAINSPACE}/OASIS/OASIS_sample.csv",
+    "Citation": "${BRAINSPACE}/OASIS/OASIS_reference.bib"
   },
   "OASIS:MNI": {
     "TransformANTs": [
